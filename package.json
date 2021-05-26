@@ -1,0 +1,11 @@
+{
+  "name": "gamepower-js",
+  "version": "0.0.1",
+  "description": "GamePower Javascript Library",
+  "main": "index.js",
+  "repository": "https://github.com/GamePowerNetwork/gamepower-js.git",
+  "author": "GamePower Developers <dev@gamepower.network>",
+  "license": "Apache",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
